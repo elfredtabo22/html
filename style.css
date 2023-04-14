@@ -1,0 +1,15 @@
+body {
+  color: aliceblue;
+  font-family: "Courier New", Courier, monospace;
+}
+body h1 {
+  color: black;
+  font-size: 2rem;
+  margin: auto;
+  font: bold;
+}
+
+body p {
+  color: brown;
+  font-size: 1.5rem;
+}
